@@ -1,0 +1,266 @@
+C:\Users\Orivro\source\repos\Event management\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\Orivro\source\repos\Event management\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\Orivro\source\repos\Event management\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+C:\Users\Orivro\source\repos\Event management\Project\bin\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\source\repos\Event management\Project\bin\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\refint\Project.dll
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\ref\Project.dll
+C:\Users\Orivro\source\repos\Event management\Project\obj\Debug\net8.0-windows\Project.Login.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\bin\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\bin\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Login.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\refint\Project.dll
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\ref\Project.dll
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Events.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Customer.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Venues.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.FeedBacks.resources
+C:\Users\Orivro\Desktop\Project C#\Event management\Project\obj\Debug\net8.0-windows\Project.Pictures.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Customer.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Events.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.FeedBacks.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Login.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Pictures.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Venues.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\refint\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\ref\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.splash loading.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.loading.resources
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar_NET5.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Essentials.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Orivro\Downloads\Event management-20231221T090059Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Dashboard.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar_NET5.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Essentials.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Customer.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Dashboard.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Events.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.FeedBacks.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Loading.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Login.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Pictures.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.splash loading.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Venues.resources
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\refint\Project.dll
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\Orivro\Downloads\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\ref\Project.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.exe
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.deps.json
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Project.pdb
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\CircularProgressBar_NET5.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\SkiaSharp.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Management.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Essentials.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.CustomerLogin.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Customer.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Dashboard.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Events.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.FeedBacks.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Loading.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Login.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Pictures.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.RoleSelection.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.splash loading.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Venues.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\refint\Project.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.pdb
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\ref\Project.dll
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.SignUp.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Hosting.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.GiveFeedBacks.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.Showcase.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.LoggedCustomers.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.FeedbackRecords.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.HostedEventRecords.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.OperationsCenter.resources
+D:\7th Sem\final\C#\project\user form update 01\Event management-20231226T222058Z-001\Event management\Project\obj\Debug\net8.0-windows\Project.AboutUS.resources
